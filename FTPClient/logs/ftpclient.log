@@ -1,0 +1,33 @@
+[client]:[2018-05-21 17:28:14,949] [client.py|put] [line:202] INFO    : send file info: put|canting.jpg|4979592|b9680ba8a3b07ae5f2f19cdc036adca1
+[client]:[2018-05-21 17:45:35,870] [client.py|put] [line:202] INFO    : send file info: put|canting.jpg|4979592|b9680ba8a3b07ae5f2f19cdc036adca1
+[client]:[2018-05-21 17:48:23,512] [client.py|put] [line:202] INFO    : send file info: put|canting.jpg|4979592|b9680ba8a3b07ae5f2f19cdc036adca1
+[client]:[2018-05-21 17:50:43,917] [client.py|put] [line:202] INFO    : send file info: put|canting.jpg|4979592|b9680ba8a3b07ae5f2f19cdc036adca1
+[client]:[2018-05-21 17:50:44,418] [client.py|put] [line:268] INFO    : upload file</users/yinjia/pycharmprojects/untitled/project/yjftp/canting.jpg> successful
+[client]:[2018-05-21 17:52:34,366] [client.py|put] [line:202] INFO    : send file info: put|canting.jpg|4979592|b9680ba8a3b07ae5f2f19cdc036adca1
+[client]:[2018-05-21 17:52:35,138] [client.py|put] [line:268] INFO    : upload file</users/yinjia/pycharmprojects/untitled/project/yjftp/canting.jpg> successful
+[client]:[2018-05-21 18:03:28,505] [client.py|put] [line:202] INFO    : send file info: put|canting.jpg|4979592|b9680ba8a3b07ae5f2f19cdc036adca1
+[client]:[2018-05-21 18:03:28,941] [client.py|put] [line:256] INFO    : upload file</users/yinjia/pycharmprojects/untitled/project/yjftp/canting.jpg> successful
+[client]:[2018-05-21 18:07:02,104] [client.py|put] [line:202] INFO    : send file info: put|canting.jpg|4979592|b9680ba8a3b07ae5f2f19cdc036adca1
+[client]:[2018-05-21 18:08:42,716] [client.py|put] [line:263] ERROR   : 文件上传失败:[Errno 32] Broken pipe
+[ftpclient]:[2018-05-21 18:08:42,717] [ftpclient.py|run] [line:48] ERROR   : [Errno 32] Broken pipe
+[client]:[2018-05-21 18:17:23,412] [client.py|get] [line:309] INFO    : download file<canting.jpg> from server successful
+[client]:[2018-05-21 18:17:23,427] [client.py|get] [line:313] INFO    : md5 check for file<canting.jpg> succ!
+[client]:[2018-05-21 18:22:52,654] [client.py|put] [line:202] INFO    : send file info: put|canting.jpg|4979592|b9680ba8a3b07ae5f2f19cdc036adca1
+[client]:[2018-05-21 18:23:34,339] [client.py|get] [line:309] INFO    : download file</users/yinjia/pycharmprojects/untitled/project/yjftp/canting.jpg> from server successful
+[client]:[2018-05-21 18:23:34,339] [client.py|get] [line:313] INFO    : md5 check for file</users/yinjia/pycharmprojects/untitled/project/yjftp/canting.jpg> succ!
+[client]:[2018-05-21 18:24:13,319] [client.py|get] [line:309] INFO    : download file</users/yinjia/pycharmprojects/untitled/project/yjftp/canting.jpg> from server successful
+[client]:[2018-05-21 18:24:13,319] [client.py|get] [line:313] INFO    : md5 check for file</users/yinjia/pycharmprojects/untitled/project/yjftp/canting.jpg> succ!
+[client]:[2018-05-21 18:25:39,828] [client.py|get] [line:309] INFO    : download file</users/yinjia/pycharmprojects/untitled/project/yjftp/canting.jpg> from server successful
+[client]:[2018-05-21 18:25:39,829] [client.py|get] [line:313] INFO    : md5 check for file</users/yinjia/pycharmprojects/untitled/project/yjftp/canting.jpg> succ!
+[client]:[2018-05-21 18:27:15,876] [client.py|get] [line:309] INFO    : download file<canting.jpg> from server successful
+[client]:[2018-05-21 18:27:15,877] [client.py|get] [line:313] INFO    : md5 check for file<canting.jpg> succ!
+[client]:[2018-05-21 18:29:18,297] [client.py|get] [line:309] INFO    : download file<11.jpg> from server successful
+[client]:[2018-05-21 18:29:18,332] [client.py|get] [line:313] INFO    : md5 check for file<11.jpg> succ!
+[client]:[2018-05-21 18:29:54,827] [client.py|get] [line:309] INFO    : download file<11.jpg> from server successful
+[client]:[2018-05-21 18:29:54,840] [client.py|get] [line:313] INFO    : md5 check for file<11.jpg> succ!
+[client]:[2018-05-21 18:30:18,237] [client.py|get] [line:309] INFO    : download file<11.jpg> from server successful
+[client]:[2018-05-21 18:30:18,255] [client.py|get] [line:313] INFO    : md5 check for file<11.jpg> succ!
+[client]:[2018-05-22 09:28:43,726] [client.py|put] [line:202] INFO    : send file info: put|11.jpg|4979592|b9680ba8a3b07ae5f2f19cdc036adca1
+[client]:[2018-05-22 09:28:44,501] [client.py|put] [line:260] INFO    : upload file</users/yinjia/pycharmprojects/untitled/project/yjftp/11.jpg> successful
+[client]:[2018-05-22 10:15:51,803] [client.py|get] [line:309] INFO    : download file<11.jpg> from server successful
+[client]:[2018-05-22 10:15:51,820] [client.py|get] [line:313] INFO    : md5 check for file<11.jpg> succ!
